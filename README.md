@@ -1,7 +1,6 @@
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RAYANNE778&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYANNE778&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAYANNE778&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYANNE778&langs_count=16&theme=radical&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10"/>
 </div>
 <br>
 
