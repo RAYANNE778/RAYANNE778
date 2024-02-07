@@ -1,6 +1,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=RAYANNE778&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYANNE778&langs_count=16&theme=radical&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYANNE778&langs_count=16&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYANNE778&theme=radical&hide_progress=true"/>
 </div>
 <br>
 
